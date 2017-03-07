@@ -59,6 +59,13 @@ Are you new to Redis? Try our [online, interactive tutorial](http://try.redis.i
 12536:M 15 Dec 15:22:42.636 * Saving the final RDB snapshot before exiting.
 12536:M 15 Dec 15:22:42.639 * DB saved on disk
 12536:M 15 Dec 15:22:42.639 # Redis is now ready to exit, bye bye...
-
 ```
+
+
+
+
+
+#### 参考链接
+
+[Redis 安装使用（一）](http://wuhai.blog.51cto.com/2023916/932305)
 
